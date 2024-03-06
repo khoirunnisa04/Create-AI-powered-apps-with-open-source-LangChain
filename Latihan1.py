@@ -6,7 +6,7 @@ import gradio as gr
 # Menginisialisasi model dengan nama model dan kunci API Anda
 openai = ChatOpenAI(
     model_name="gpt-3.5-turbo",
-    openai_api_key="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"
+    openai_api_key="API_AI_KAMU"
 )
 
 # Mendefinisikan fungsi chatbot
